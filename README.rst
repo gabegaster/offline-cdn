@@ -9,9 +9,9 @@ A nice way to allow for online-offline development, but also use cdn's for packa
 
 .. |Build Status| image:: https://travis-ci.org/gabegaster/django-offlinecdn.svg?branch=master
    :target: https://travis-ci.org/gabegaster/django-offlinecdn
-.. |Version| image:: https://pypip.in/v/django-offlinecdn/badge.png
+.. |Version| image:: https://img.shields.io/pypi/v/django-offlinecdn.svg
    :target: https://warehouse.python.org/project/django-offlinecdn/
-.. |Downloads| image:: https://pypip.in/d/django-offlinecdn/badge.png
+.. |Downloads| image:: https://img.shields.io/pypi/dm/django-offlinecdn.svg
    :target: https://warehouse.python.org/project/django-offlinecdn/
 .. |Test Coverage| image:: https://coveralls.io/repos/gabegaster/django-offlinecdn/badge.png
    :target: https://coveralls.io/r/gabegaster/django-offlinecdn
